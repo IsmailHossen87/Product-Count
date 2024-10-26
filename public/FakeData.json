@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "category": "Electronics",
+      "description": "Latest 5G smartphone with high-resolution display and fast processor.",
+      "img": "https://i.ibb.co.com/47HNvfB/original-47b1dc80c20fcbec58b7ccca29f6d420.jpg",
+      "price": 799.99,
+      "productName": "SuperPhone X",
+      "isFeature": true
+    },
+    {
+      "id": 2,
+      "category": "Home Appliances",
+      "description": "Energy-efficient washing machine with multiple washing modes.",
+      "img": "https://i.ibb.co.com/RjJhtZB/images-1.jpg",
+      "price": 499.99,
+      "productName": "AquaClean 3000",
+      "isFeature": false
+    },
+    {
+      "id": 3,
+      "category": "Furniture",
+      "description": "Comfortable and stylish leather sofa with modern design.",
+      "img": "https://i.ibb.co.com/RjJhtZB/images-1.jpg",
+      "price": 1200.00,
+      "productName": "ComfortMax Leather Sofa",
+      "isFeature": true
+    },
+    {
+      "id": 4,
+      "category": "Fashion",
+      "description": "Elegant wristwatch with water-resistant and scratch-proof design.",
+      "img": "https://i.ibb.co.com/47HNvfB/original-47b1dc80c20fcbec58b7ccca29f6d420.jpg",
+      "price": 299.99,
+      "productName": "ElegantTime Watch",
+      "isFeature": false
+    },
+    {
+      "id": 5,
+      "category": "Sports",
+      "description": "Lightweight running shoes designed for long-distance performance.",
+      "img": "https://i.ibb.co.com/8Pv3fZv/sports-background-international-sports-day-illustration-graphic-design-for-the-decoration-of-gift-ce.jpg",
+      "price": 129.99,
+      "productName": "FastRun Pro",
+      "isFeature": true
+    },
+    {
+      "id": 6,
+      "category": "Books",
+      "description": "Bestselling science fiction novel set in a futuristic world.",
+      "img": "https://i.ibb.co.com/RjJhtZB/images-1.jpg",
+      "price": 19.99,
+      "productName": "Galaxy Adventures",
+      "isFeature": false
+    }
+  ]
+  
